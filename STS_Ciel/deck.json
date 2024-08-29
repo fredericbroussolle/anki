@@ -167,7 +167,347 @@
             ],
             "guid": "wwVSNnYO-%",
             "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
-            "tags": []
+            "tags": [
+                "Linux"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande permet de changer de répertoire ?",
+                "cd",
+                "La commande 'cd' est utilisée pour naviguer entre les répertoires. Par exemple, 'cd /home/user' vous amène au répertoire /home/user."
+            ],
+            "guid": "k`NdyV}*hr",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Linux"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Comment afficher le chemin du répertoire courant ?",
+                "pwd",
+                "La commande 'pwd' (print working directory) affiche le chemin complet du répertoire de travail actuel."
+            ],
+            "guid": "M]u6cLjFkj",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Linux"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande est utilisée pour copier des fichiers ou des répertoires ?",
+                "cp",
+                "La commande 'cp' permet de copier des fichiers ou des répertoires. Par exemple, 'cp file1.txt file2.txt' copie le contenu de file1.txt dans file2.txt."
+            ],
+            "guid": "shfVES-JZH",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Linux"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande est utilisée pour déplacer ou renommer des fichiers et des répertoires ?",
+                "mv",
+                "La commande 'mv' est utilisée pour déplacer ou renommer des fichiers et des répertoires. Par exemple, 'mv oldname.txt newname.txt' renomme le fichier."
+            ],
+            "guid": "A@|!Etkx%I",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Linux"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande permet de supprimer des fichiers ?",
+                "rm",
+                "La commande 'rm' est utilisée pour supprimer des fichiers. Utilisez 'rm -r' pour supprimer un répertoire et tout son contenu."
+            ],
+            "guid": "B:jHGK;pnj",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Linux"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande permet de créer un nouveau répertoire ?",
+                "mkdir",
+                "La commande 'mkdir' (make directory) est utilisée pour créer un nouveau répertoire. Par exemple, 'mkdir nouveau_dossier' crée un dossier appelé 'nouveau_dossier'."
+            ],
+            "guid": "Fg=,Fb,7l7",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Linux"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Comment afficher le contenu d'un fichier ?",
+                "cat",
+                "La commande 'cat' (concatenate) est utilisée pour afficher le contenu d'un fichier. Par exemple, 'cat fichier.txt' affiche le contenu de fichier.txt."
+            ],
+            "guid": "H{o!d6F1!_",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Linux"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande est utilisée pour afficher les 10 premières lignes d'un fichier ?",
+                "head",
+                "La commande 'head' affiche par défaut les 10 premières lignes d'un fichier. Vous pouvez spécifier le nombre de lignes avec l'option '-n', comme 'head -n 20 fichier.txt'"
+            ],
+            "guid": "JLr?63M([I",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Linux"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande permet d'afficher les 10 dernières lignes d'un fichier ?",
+                "tail",
+                "La commande 'tail' affiche par défaut les 10 dernières lignes d'un fichier. Utilisez 'tail -n' pour afficher un nombre différent de lignes."
+            ],
+            "guid": "I5(j$O4XT3",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Linux"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande permet de trouver un fichier par son nom dans le système ?",
+                "find",
+                ""
+            ],
+            "guid": "wVwFd>}=Ft",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Linux"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande est utilisée pour afficher les processus en cours d'exécution ?",
+                "ps",
+                "La commande 'ps' affiche les processus actifs dans le shell actuel. Utilisez 'ps aux' pour afficher tous les processus en cours sur le système."
+            ],
+            "guid": "EBs@.|7#Te",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Linux"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande permet de changer les permissions d'un fichier ou d'un répertoire ?",
+                "chmod",
+                "La commande 'chmod' est utilisée pour changer les permissions d'un fichier ou d'un répertoire. Par exemple, 'chmod 755 script.sh' donne des permissions spécifiques au fichier script.sh."
+            ],
+            "guid": "k&xYR`4HH-",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Linux"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande est utilisée pour télécharger des fichiers à partir du web ?",
+                "wget / curl",
+                "La commande 'wget' est un utilitaire de ligne de commande pour télécharger des fichiers à partir du web. Par exemple, 'wget http://exemple.com/fichier.zip' télécharge fichier.zip depuis le site web."
+            ],
+            "guid": "NMc|7[*]?R",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Linux"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande permet d'afficher ou de définir la date et l'heure du système ?",
+                "date",
+                "La commande 'date' affiche ou modifie la date et l'heure système. Utilisez 'date' pour afficher la date actuelle ou 'date -s \\\"2024-08-28 12:34:56\\\"' pour la définir."
+            ],
+            "guid": "IQyD5nh!@q",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Linux"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande permet de définir le mode d'une broche en entrée ou en sortie sur Arduino ?",
+                "pinMode()",
+                "pinMode(13, OUTPUT); // Définit la broche 13 comme sortie"
+            ],
+            "guid": "t|LoXT9d7:",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Arduino"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande est utilisée pour écrire un état haut ou bas sur une broche numérique ?",
+                "digitalWrite()",
+                "digitalWrite(13, HIGH); // Met la broche 13 à l'état haut"
+            ],
+            "guid": "L(UG%?%f|T",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Arduino"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande permet de lire l'état d'une broche numérique ?",
+                "digitalRead()",
+                "int etat = digitalRead(7); // Lit l'état de la broche 7"
+            ],
+            "guid": "MpCf?0Q[UK",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Arduino"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande est utilisée pour lire une valeur analogique d'une broche sur Arduino ?",
+                "analogRead()",
+                "int valeur = analogRead(A0); // Lit la valeur analogique de la broche A0"
+            ],
+            "guid": "vpHeEc1^i=",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Arduino"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande est utilisée pour écrire une valeur analogique sur une broche PWM ?",
+                "analogWrite()",
+                "analogWrite(9, 128); // Écrit une valeur PWM de 128 sur la broche 9"
+            ],
+            "guid": "bXKNm.BEqi",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Arduino"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande permet d'initialiser la communication série sur Arduino ?",
+                "Serial.begin()",
+                "Serial.begin(9600); // Initialise la communication série à 9600 bauds"
+            ],
+            "guid": "td38h^XO0L",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Arduino"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande permet d'envoyer des données via le port série sur Arduino ?",
+                "Serial.print()",
+                "Serial.print(\"Hello, world!\"); // Envoie 'Hello, world!' via le port série"
+            ],
+            "guid": "z/z*aSo|x~",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Arduino"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande est utilisée pour introduire une pause dans l'exécution du programme Arduino ?",
+                "delay()",
+                "delay(1000); // Fait une pause de 1000 millisecondes (1 seconde)"
+            ],
+            "guid": "J=3w$]ZZ%E",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Arduino"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande est utilisée pour mesurer la durée en millisecondes depuis le démarrage du programme Arduino ?",
+                "millis()",
+                "unsigned long temps = millis(); // Stocke le nombre de millisecondes depuis le début du programme"
+            ],
+            "guid": "vBuAPt_}&k",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Arduino"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande permet de lire des données en entrée série sur Arduino ?",
+                "Serial.read()",
+                "int data = Serial.read(); // Lit le premier octet de données reçues via le port série"
+            ],
+            "guid": "I?}Og0(=f#",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Arduino"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande permet de vérifier si des données sont disponibles pour la lecture sur le port série ?",
+                "Serial.available()",
+                "if (Serial.available() > 0) { // Vérifie si des données sont disponibles pour la lecture }"
+            ],
+            "guid": "d>^F!rCdcq",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Arduino"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle commande permet de nettoyer l'affichage du moniteur série sur Arduino ?",
+                "Serial.flush()",
+                "Serial.flush(); // Vide le tampon de sortie du port série"
+            ],
+            "guid": "OL^a&E}ZM;",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Arduino"
+            ]
         }
     ],
     "reviewLimit": null,
