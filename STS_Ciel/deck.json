@@ -69,7 +69,20 @@
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
-    "media_files": [],
+    "media_files": [
+        "CP.png",
+        "LM.png",
+        "LN.png",
+        "LO.png",
+        "PDT.jpg",
+        "RP.png",
+        "RS-d1c47b6cdf7e4dd5ff1241e6b3ff103d935b923a.png",
+        "RS.png",
+        "SCP.png",
+        "SCS.png",
+        "SRP.png",
+        "SRS.png"
+    ],
     "name": "STS Ciel",
     "newLimit": null,
     "newLimitToday": null,
@@ -507,6 +520,303 @@
             "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
             "tags": [
                 "Arduino"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle est la loi d'Ohm ?<br><img src=\"LO.png\">",
+                "U =R * I",
+                "La loi d'Ohm décrit la relation entre la tension (V), le courant (I) et la résistance (R) dans un circuit. Elle stipule que la tension est directement proportionnelle au courant, avec la résistance comme facteur de proportionnalité."
+            ],
+            "guid": "mzP3d7`Dp8",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Electricite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle est la loi des mailles de Kirchhoff ?<br><img src=\"LM.png\">",
+                "La somme des tensions dans une maille fermée est égale à zéro.",
+                "La loi des mailles de Kirchhoff stipule que dans un circuit fermé, la somme des différences de potentiel (tensions) dans une boucle est nulle, ce qui reflète la conservation de l'énergie."
+            ],
+            "guid": "E>99|[0>(*",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Electricite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle est la loi des nœuds de Kirchhoff ?<br><img src=\"LN.png\">",
+                "La somme des courants entrants dans un nœud est égale à la somme des courants sortants.",
+                "Cette loi exprime la conservation de la charge, indiquant que le courant total entrant dans un nœud doit être égal au courant total sortant."
+            ],
+            "guid": "xN{[3}JWMa",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Electricite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Qu'est-ce que la loi du diviseur de tension ?<br><img src=\"PDT.jpg\">",
+                "Vout = Vin × (R2 / (R1 + R2))",
+                "La loi du diviseur de tension permet de calculer la tension à travers une des résistances dans un circuit en série. Elle est utilisée pour réduire la tension d'entrée proportionnellement à la valeur des résistances."
+            ],
+            "guid": "k9Jb01Hnsz",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Electricite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"RS.png\">",
+                "<img src=\"SCS.png\">",
+                ""
+            ],
+            "guid": "oJ%!W,jH8b",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Electricite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"RS-d1c47b6cdf7e4dd5ff1241e6b3ff103d935b923a.png\">",
+                "<img src=\"SRS.png\">",
+                ""
+            ],
+            "guid": "yJ3fg5W5iV",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Electricite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"RP.png\">",
+                "<img src=\"SRP.png\">",
+                ""
+            ],
+            "guid": "M`|{wF#w*.",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Electricite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle est la valeur du condensateur équivalent :<br><img src=\"CP.png\">",
+                "<img src=\"SCP.png\">",
+                ""
+            ],
+            "guid": "o;?>s<kk@6",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Electricite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Test Ajout",
+                "Ca marche",
+                ""
+            ],
+            "guid": "O-yUv~yDGf",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Qu'est-ce que le système binaire ?",
+                "Le système binaire est un système de numération qui utilise uniquement deux chiffres : 0 et 1. Chaque chiffre est appelé un bit.",
+                ""
+            ],
+            "guid": "Eh{KT[1Wi`",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Logique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Qu'est-ce que le système décimal ?",
+                "Le système décimal est le système de numération le plus couramment utilisé dans la vie quotidienne. Il utilise dix chiffres : 0 à 9.",
+                ""
+            ],
+            "guid": "EHu7avAW=^",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Logique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Qu'est-ce que le système hexadécimal ?",
+                "Le système hexadécimal est un système de numération en base 16 qui utilise les chiffres 0 à 9 et les lettres A à F pour représenter les valeurs de 10 à 15.",
+                ""
+            ],
+            "guid": "Q;$ss[fvBu",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Logique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Comment convertir un nombre binaire en décimal ?",
+                "Multiplie chaque bit du nombre binaire par 2 élevé à la puissance correspondant à sa position, en commençant par 0 à partir de la droite. Ensuite, additionne les résultats.",
+                "Binaire : <code>1101</code><br>Décimal : 1×23+1×22+0×21+1×20=8+4+0+1=131 \\times 2^3 + 1 \\times 2^2 + 0 \\times 2^1 + 1 \\times 2^0 = 8 + 4 + 0 + 1 = 131×23+1×22+0×21+1×20=8+4+0+1=13"
+            ],
+            "guid": "B(cZ<al<Sz",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Logique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Comment convertir un nombre binaire en hexadécimal ?",
+                "Sépare le nombre binaire en groupes de 4 bits (en ajoutant des zéros à gauche si nécessaire). Ensuite, convertis chaque groupe de 4 bits en son équivalent hexadécimal.",
+                "<div>Binaire : <code>11010111</code></div><ul><li>Séparer en groupes de 4 bits : <code>1101</code> et <code>0111</code></li><li>Convertir chaque groupe en hexadécimal :<ul><li><code>1101</code> = <code>D</code></li><li><code>0111</code> = <code>7</code><br><strong>Hexadécimal</strong> : <code>D7</code></li></ul></li></ul>"
+            ],
+            "guid": "o2usux1=u1",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Logique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Comment convertir un nombre hexadécimal en binaire ?",
+                "Convertis chaque chiffre hexadécimal en son équivalent binaire de 4 bits.",
+                "<div>Hexadécimal : <code>D7</code></div><ul><li><code>D</code> = <code>1101</code></li><li><code>7</code> = <code>0111</code><br><strong>Binaire</strong> : <code>11010111</code></li></ul>"
+            ],
+            "guid": "O(2wtH{^Yl",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Logique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelles sont les conversions courantes entre hexadécimal et binaire ?",
+                "",
+                ""
+            ],
+            "guid": "C0bD7:}ASs",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Logique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Qu'est-ce qu'une fonction logique ?",
+                "Une fonction logique est une expression mathématique qui utilise des opérateurs logiques (comme ET, OU, NON) pour produire une sortie vraie ou fausse en fonction des entrées.",
+                ""
+            ],
+            "guid": "Pgd=)mLP#E",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Logique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Qu'est-ce qu'un opérateur logique \"ET\" (AND) ?",
+                "L'opérateur \"ET\" donne une sortie vraie uniquement si toutes les entrées sont vraies.",
+                "<div>Table de vérité :</div><ul><li>1 ET 1 = 1</li><li>1 ET 0 = 0</li><li>0 ET 1 = 0</li><li>0 ET 0 = 0</li></ul><div>S = A . B</div>"
+            ],
+            "guid": "D$UNA_9?VT",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Logique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Qu'est-ce qu'un opérateur logique \"OU\" (OR) ?",
+                "L'opérateur \"OU\" donne une sortie vraie si au moins une des entrées est vraie",
+                "Table de vérité :<ul><li>1 OU 1 = 1</li><li>1 OU 0 = 1</li><li>0 OU 1 = 1</li><li>0 OU 0 = 0</li></ul><div>S = A + B</div>"
+            ],
+            "guid": "Lx(gk5`^32",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Logique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Qu'est-ce qu'un opérateur logique \"NON\" (NOT) ?",
+                "L'opérateur \"NON\" inverse l'état d'une entrée",
+                "<div>able de vérité :</div><ul><li>NON 1 = 0</li><li>NON 0 = 1</li></ul><div>S = /A</div>"
+            ],
+            "guid": "q@D;)~6~x0",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Logique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Qu'est-ce qu'un opérateur \"OU exclusif\" (XOR) ?",
+                "L'opérateur \"XOR\" donne une sortie vraie si les entrées sont différentes.",
+                "<div>Table de vérité :</div><ul><li>1 XOR 1 = 0</li><li>1 XOR 0 = 1</li><li>0 XOR 1 = 1</li><li>0 XOR 0 = 0</li></ul>"
+            ],
+            "guid": "llE!6iL)jr",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Logique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle est la fonction logique d'un circuit NAND ?",
+                "Un circuit NAND donne une sortie fausse uniquement si toutes les entrées sont vraies.",
+                "<div>&nbsp;Table de vérité :</div><ul><li>1 NAND 1 = 0</li><li>1 NAND 0 = 1</li><li>0 NAND 1 = 1</li><li>0 NAND 0 = 1</li></ul>"
+            ],
+            "guid": "HUj^F{b-?X",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Logique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelle est la fonction logique d'un circuit NOR ?",
+                "Un circuit NOR donne une sortie vraie uniquement si toutes les entrées sont fausses.",
+                "<div>Table de vérité :</div><ul><li>1 NOR 1 = 0</li><li>1 NOR 0 = 0</li><li>0 NOR 1 = 0</li><li>0 NOR 0 = 1</li></ul>"
+            ],
+            "guid": "D+TY8kw6Nj",
+            "note_model_uuid": "6c35e09b-6063-11ef-8ec8-b81ea4b9891c",
+            "tags": [
+                "Logique"
             ]
         }
     ],
